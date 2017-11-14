@@ -14,7 +14,7 @@ based directly or indirectly on these metrics.
 
 __author__ = "Marta Gomez-Barrero"
 __copyright__ = "Copyright (C) 2017 Hochschule Darmstadt"
-__license__ = "License Agreement provided by Hochschule Darmstadt (https://share.nbl.nislab.no/g03-06-btp/iris-bf-btp/blob/master/hda-license.pdf)"
+__license__ = "License Agreement provided by Hochschule Darmstadt (https://github.com/dasec/iris-bf-btp/blob/master/hda-license.pdf)"
 __version__ = "1.0"
 
 import numpy
